@@ -1,0 +1,583 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-11-08T16:20:22.693Z",
+  "description": "《命运石之门》简/繁(台版官方设定集)/日文原版/外号黑话四合一别名词典",
+  "entries": [
+    {
+      "id": "char_okabe",
+      "canonical": "冈部伦太郎",
+      "category": "角色",
+      "aliases": [
+        "冈部伦太郎",
+        "冈部",
+        "伦太郎",
+        "凤凰院凶真",
+        "凶真",
+        "冈伦",
+        "LabMem 001",
+        "001",
+        "岡部倫太郎",
+        "鳳凰院凶真",
+        "オカリン",
+        "狂気のマッドサイエンティスト",
+        "Kyouma",
+        "Okabe Rintaro",
+        "Okarin"
+      ]
+    },
+    {
+      "id": "char_mayuri",
+      "canonical": "椎名真由理",
+      "category": "角色",
+      "aliases": [
+        "椎名真由理",
+        "真由理",
+        "真由氏",
+        "嘟嘟噜",
+        "LabMem 002",
+        "002",
+        "椎名真百合",
+        "真百合",
+        "真由氏·喵喵",
+        "椎名まゆり",
+        "まゆしぃ",
+        "トゥットゥルー",
+        "Mayuri Shiina",
+        "Mayushii"
+      ]
+    },
+    {
+      "id": "char_daru",
+      "canonical": "桥田至",
+      "category": "角色",
+      "aliases": [
+        "桥田至",
+        "桶子",
+        "超级黑客",
+        "超级骇客",
+        "LabMem 003",
+        "003",
+        "橋田至",
+        "阿樽",
+        "ダル",
+        "スーパーハカー",
+        "DaSH",
+        "巴雷尔·提托",
+        "Barrel Titor",
+        "Itaru Hashida",
+        "Daru"
+      ]
+    },
+    {
+      "id": "char_kurisu",
+      "canonical": "牧濑红莉栖",
+      "category": "角色",
+      "aliases": [
+        "牧濑红莉栖",
+        "红莉栖",
+        "助手",
+        "克里斯蒂娜",
+        "栗悟饭和龟派气功",
+        "The Zombie",
+        "僵尸",
+        "变态天才少女",
+        "塞莱斯在7号",
+        "LabMem 004",
+        "004",
+        "牧瀨紅莉栖",
+        "紅莉栖",
+        "牧瀬紅莉栖",
+        "クリスティーナ",
+        "栗悟飯とカメハメ波",
+        "ザ・ゾンビ",
+        "セレセブ",
+        "Amadeus红莉栖",
+        "Amadeus",
+        "Kurisu Makise"
+      ]
+    },
+    {
+      "id": "char_moeka",
+      "canonical": "桐生萌郁",
+      "category": "角色",
+      "aliases": [
+        "桐生萌郁",
+        "萌郁",
+        "闪光指压师",
+        "闪光的指压师",
+        "M4",
+        "LabMem 005",
+        "005",
+        "閃光的指壓師",
+        "シャイニング・フィンガー",
+        "Shining Finger",
+        "Moeka Kiryu"
+      ]
+    },
+    {
+      "id": "char_luka",
+      "canonical": "漆原琉华",
+      "category": "角色",
+      "aliases": [
+        "漆原琉华",
+        "琉华",
+        "琉华子",
+        "卢卡子",
+        "巫女",
+        "LabMem 006",
+        "006",
+        "漆原琉佳",
+        "琉佳",
+        "漆原るか",
+        "ルカ子",
+        "Luka Urushibara",
+        "Lukako"
+      ]
+    },
+    {
+      "id": "char_faris",
+      "canonical": "秋叶留未穗",
+      "category": "角色",
+      "aliases": [
+        "秋叶留未穗",
+        "留未穗",
+        "菲莉丝",
+        "菲莉丝·喵喵",
+        "菲利斯",
+        "LabMem 007",
+        "007",
+        "秋葉留未穂",
+        "フェイリス",
+        "フェイリス・ニャンニャン",
+        "Faris NyanNyan",
+        "Rumiho Akiha"
+      ]
+    },
+    {
+      "id": "char_suzuha",
+      "canonical": "阿万音铃羽",
+      "category": "角色",
+      "aliases": [
+        "阿万音铃羽",
+        "铃羽",
+        "打工战士",
+        "约翰·提托",
+        "提托",
+        "桥田铃",
+        "LabMem 008",
+        "008",
+        "阿萬音鈴羽",
+        "鈴羽",
+        "約翰·提托",
+        "橋田鈴",
+        "バイト戦士",
+        "ジョン・タイター",
+        "John Titor",
+        "Suzuha Amane"
+      ]
+    },
+    {
+      "id": "char_maho",
+      "canonical": "比屋定真帆",
+      "category": "角色",
+      "aliases": [
+        "比屋定真帆",
+        "真帆",
+        "合法萝莉",
+        "萨利埃里",
+        "LabMem 009",
+        "009",
+        "比屋定真帆",
+        "マホ",
+        "サリエリ",
+        "Maho Hiyajo"
+      ]
+    },
+    {
+      "id": "char_kagari",
+      "canonical": "椎名篝",
+      "category": "角色",
+      "aliases": [
+        "椎名篝",
+        "篝",
+        "K6205",
+        "椎名かがり",
+        "かがり",
+        "Kagari Shiina"
+      ]
+    },
+    {
+      "id": "char_yuki",
+      "canonical": "阿万音由季",
+      "category": "角色",
+      "aliases": [
+        "阿万音由季",
+        "由季",
+        "阿萬音由季",
+        "阿万音ゆき",
+        "Yuki Amane"
+      ]
+    },
+    {
+      "id": "char_tennouji",
+      "canonical": "天王寺裕吾",
+      "category": "角色",
+      "aliases": [
+        "天王寺裕吾",
+        "天王寺",
+        "显像管先生",
+        "映像管先生",
+        "FB",
+        "Ferdinand Braun",
+        "ミスター・ブラウン",
+        "Mr. Braun",
+        "Yugo Tennouji"
+      ]
+    },
+    {
+      "id": "char_nae",
+      "canonical": "天王寺绹",
+      "category": "角色",
+      "aliases": [
+        "天王寺绹",
+        "绹",
+        "小绹",
+        "暴走萝莉",
+        "天王寺",
+        "天王寺絢",
+        "天王寺綯",
+        "綯",
+        "Nae Tennouji"
+      ]
+    },
+    {
+      "id": "char_nakabachi",
+      "canonical": "中钵博士",
+      "category": "角色",
+      "aliases": [
+        "中钵博士",
+        "中钵",
+        "牧濑章一",
+        "Dr.中钵",
+        "钟钵博士",
+        "钟钵",
+        "Dr.中鉢",
+        "中鉢博士",
+        "牧瀬章一",
+        "ドクター中鉢",
+        "Shoichi Makise",
+        "Nakabachi"
+      ]
+    },
+    {
+      "id": "char_leskinen",
+      "canonical": "亚历山大·雷斯吉宁",
+      "category": "角色",
+      "aliases": [
+        "亚历山大·雷斯吉宁",
+        "雷斯吉宁",
+        "莱斯吉宁",
+        "雷斯金宁",
+        "教授",
+        "日式萨满女孩子",
+        "アレクシス・レスキネン",
+        "レスキネン",
+        "Alexis Leskinen"
+      ]
+    },
+    {
+      "id": "char_reyes",
+      "canonical": "朱迪·雷耶斯",
+      "category": "角色",
+      "aliases": [
+        "朱迪·雷耶斯",
+        "雷耶斯",
+        "雷耶斯教授",
+        "ジュディ・レイエス",
+        "Judy Reyes"
+      ]
+    },
+    {
+      "id": "loc_radiokaikan",
+      "canonical": "秋叶原广播会馆",
+      "category": "地理",
+      "aliases": [
+        "广播会馆",
+        "秋叶原广播会馆",
+        "无线电会馆",
+        "Radio会馆",
+        "RADIO会馆",
+        "RADIO會館",
+        "ラジオ会館",
+        "秋葉原ラジオ会館",
+        "8楼会场",
+        "7楼扭蛋机",
+        "7樓轉蛋機",
+        "广播会馆天台",
+        "广播会馆8楼"
+      ]
+    },
+    {
+      "id": "loc_lab",
+      "canonical": "未来道具研究所",
+      "category": "地理",
+      "aliases": [
+        "未来道具研究所",
+        "研究所",
+        "Lab",
+        "大桧山大厦",
+        "大檜山大樓",
+        "显像管工房",
+        "映像管工房",
+        "未来ガジェット研究所",
+        "ラボ",
+        "ブラウン管工房",
+        "大檜山ビル"
+      ]
+    },
+    {
+      "id": "loc_mayqueen",
+      "canonical": "MayQueen+喵²",
+      "category": "地理",
+      "aliases": [
+        "MayQueen+喵²",
+        "MayQueen",
+        "女仆咖啡厅",
+        "女僕皇后+喵²",
+        "女仆皇后",
+        "メイクイーン+ニャン²",
+        "メイクイーン",
+        "メイリッシュ"
+      ]
+    },
+    {
+      "id": "loc_yanagibayashi",
+      "canonical": "柳林神社",
+      "category": "地理",
+      "aliases": [
+        "柳林神社",
+        "秋叶原神社",
+        "柳森神社",
+        "神社"
+      ]
+    },
+    {
+      "id": "item_metal_upa",
+      "canonical": "金属乌帕",
+      "category": "关键道具",
+      "aliases": [
+        "金属乌帕",
+        "合金乌帕",
+        "稀有乌帕",
+        "乌帕",
+        "绿色乌帕",
+        "塑料乌帕",
+        "扭蛋机",
+        "扭蛋",
+        "金屬烏帕",
+        "烏帕",
+        "轉蛋機",
+        "轉蛋",
+        "メタルうーぱ",
+        "うーぱ",
+        "ガチャ",
+        "雷NET翔",
+        "雷ネット翔"
+      ]
+    },
+    {
+      "id": "item_phonemicrowave",
+      "canonical": "电话微波炉（暂定）",
+      "category": "关键道具",
+      "aliases": [
+        "电话微波炉",
+        "电话微波炉（暂定）",
+        "未来道具8号机",
+        "8号机",
+        "凝胶香蕉",
+        "果冻香蕉",
+        "電話微波爐（暫）",
+        "電話微波爐",
+        "電話レンジ（仮）",
+        "ゲルバナ",
+        "PhoneWave"
+      ]
+    },
+    {
+      "id": "item_dmail",
+      "canonical": "D-Mail",
+      "category": "时空机制",
+      "aliases": [
+        "D-Mail",
+        "D邮件",
+        "Dmail",
+        "D简讯",
+        "D簡訊",
+        "Dメール",
+        "时空邮件",
+        "过去邮件",
+        "D-RINE",
+        "RINE"
+      ]
+    },
+    {
+      "id": "item_timeleap",
+      "canonical": "时间跳跃机",
+      "category": "时空机制",
+      "aliases": [
+        "时间跳跃机",
+        "时间跳跃",
+        "Time Leap",
+        "记忆跳跃",
+        "時間跳躍機",
+        "時間跳躍",
+        "タイムリープマシン",
+        "タイムリープ"
+      ]
+    },
+    {
+      "id": "item_timemachine",
+      "canonical": "时间机器",
+      "category": "时空机制",
+      "aliases": [
+        "时间机器",
+        "时光机",
+        "時光機",
+        "人造卫星",
+        "人造衛星",
+        "C204",
+        "FG204",
+        "C193",
+        "タイムマシン"
+      ]
+    },
+    {
+      "id": "item_ibn5100",
+      "canonical": "IBN 5100",
+      "category": "关键道具",
+      "aliases": [
+        "IBN 5100",
+        "IBN5100",
+        "IBN",
+        "复古PC",
+        "古董电脑",
+        "古董電腦",
+        "投币式储物柜",
+        "投幣式寄物櫃",
+        "コインロッカー"
+      ]
+    },
+    {
+      "id": "item_paper",
+      "canonical": "中钵论文",
+      "category": "关键道具",
+      "aliases": [
+        "中钵论文",
+        "中鉢論文",
+        "时间机器论文",
+        "時光機論文",
+        "红莉栖论文",
+        "金属探测器",
+        "火灾",
+        "飞机货舱火灾"
+      ]
+    },
+    {
+      "id": "mech_rs",
+      "canonical": "Reading Steiner",
+      "category": "时空机制",
+      "aliases": [
+        "Reading Steiner",
+        "RS",
+        "魔眼",
+        "命运探知魔眼",
+        "记忆覆写",
+        "屏幕像素假说",
+        "单点继承消去",
+        "リーディング・シュタイナー"
+      ]
+    },
+    {
+      "id": "mech_worldline",
+      "canonical": "世界线与收束",
+      "category": "时空机制",
+      "aliases": [
+        "世界线",
+        "世界線",
+        "变动率",
+        "變動率",
+        "收束",
+        "收束点",
+        "收束境界面",
+        "吸引子场",
+        "α世界线",
+        "β世界线",
+        "Steins Gate",
+        "命运石之门",
+        "命運石之門",
+        "去因留果",
+        "删因保果",
+        "历史恒常锁",
+        "世界线收束范围",
+        "莫比乌斯环",
+        "探测仪",
+        "Divergence Meter"
+      ]
+    },
+    {
+      "id": "org_sern",
+      "canonical": "SERN与机关组织",
+      "category": "组织势力",
+      "aliases": [
+        "SERN",
+        "CERN",
+        "欧洲核子研究组织",
+        "Rounder",
+        "巡回者",
+        "藍達",
+        "ラウンダー",
+        "300人委员会",
+        "梯队系统",
+        "Echelon",
+        "Z计划",
+        "果冻人",
+        "Jellyman",
+        "LHC",
+        "黑洞",
+        "Kerr黑洞",
+        "奇点",
+        "STRATFOR",
+        "DURPA",
+        "Reyes",
+        "Leskinen"
+      ]
+    },
+    {
+      "id": "mech_skuld",
+      "canonical": "斯库尔德作战",
+      "category": "时空机制",
+      "aliases": [
+        "斯库尔德作战",
+        "Operation Skuld",
+        "作战计划",
+        "欺骗世界",
+        "欺骗未来的自己",
+        "ND邮件",
+        "Nostalgia Drive",
+        "雪花噪音视频",
+        "视频邮件",
+        "凝血酶",
+        "电击枪",
+        "Cyalume Saber",
+        "荧光棒剑",
+        "血糊",
+        "假血",
+        "织女一",
+        "牛郎星",
+        "Operation Vega",
+        "Operation Altair",
+        "Operation Arclight"
+      ]
+    }
+  ]
+}

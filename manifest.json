@@ -1,0 +1,10 @@
+{
+  "display_name": "Steins;Gate 因果律导演 (DM Interceptor)",
+  "loading_order": 15,
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Anglos333",
+  "version": "1.0.0",
+  "homePage": "https://github.com/Anglos333/steins-gate-dm",
+  "generate_interceptor": "steinsGateDmInterceptor"
+}
